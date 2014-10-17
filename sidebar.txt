@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[var:home|Door43 (var)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-var|d43-var repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-var/archive/master.zip|d43-var.zip]]
+
+**Recent Changes**
+{{changes>ns = var}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/var|Ethnologue data]]
+
